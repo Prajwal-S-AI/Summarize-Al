@@ -1,0 +1,16 @@
+#requirements
+spacy
+nltk
+beautifulsoup4
+PyPDF2
+lxml
+
+#How to Create and Use requirements.txt
+Create a requirements.txt file in your project folder:
+
+touch requirements.txt
+Add the above dependencies to the file.
+
+To install all dependencies at once, run:
+
+pip install -r requirements.txt
